@@ -2,9 +2,9 @@
 
 ## Uygulamadan kesitler
 
-![](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/1jpg)
-![](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/2jpg)
-![](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/3jpg)
+![screenshot1](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/1.jpg)
+![screenshot2](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/2.jpg)
+![screenshot3](https://raw.githubusercontent.com/ofarukbicer/covid19/master/screenshots/3.jpg)
 
 ## 🌐 Telif Hakkı ve Lisans
 
